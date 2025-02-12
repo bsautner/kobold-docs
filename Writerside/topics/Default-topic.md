@@ -1,5 +1,9 @@
 # Kobold
 
+* [Kobold Github Proper](https://github.com/bsautner/kobold)
+* [API Docs](https://bsautner.github.io/kobold/api-docs/)
+* [Documentation (this repo)](https://bsautner.github.io/kobold-docs)
+
 # About Kobold
 
 <!--Writerside adds this topic when you create a new documentation project.
