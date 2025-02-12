@@ -6,3 +6,7 @@
 
 # kobold-docs
 Writerside docs for Kobold
+
+* [Kobold Github Proper](https://github.com/bsautner/kobold)
+* [API Docs](https://bsautner.github.io/kobold/api-docs/)
+* [Documentation (this repo)](https://bsautner.github.io/kobold-docs)
