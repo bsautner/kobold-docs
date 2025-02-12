@@ -1,13 +1,7 @@
+[Kobold Github Proper](https://github.com/bsautner/kobold) |  [API Docs](https://bsautner.github.io/kobold/api-docs/) | [Documentation (this repo)](https://bsautner.github.io/kobold-docs)
+
 # Kobold
 
-* [Kobold Github Proper](https://github.com/bsautner/kobold)
-* [API Docs](https://bsautner.github.io/kobold/api-docs/)
-* [Documentation (this repo)](https://bsautner.github.io/kobold-docs)
-
-# About Kobold
-
-<!--Writerside adds this topic when you create a new documentation project.
-You can use it as a sandbox to play with Writerside features, and remove it from the TOC when you don't need it anymore.-->
 <img src="kobold.webp" alt="" width="250" height="250"  border-effect="line"/>
 
 Kobold was inspired by a Ktor based project where the architecture inspired code generation based on Kotlin Multiplatform, Jetpack Compose and Ktor Type Safe Routing.
@@ -16,9 +10,9 @@ Using [KSP](https://kotlinlang.org/docs/ksp-overview.html) and a provided API, K
 
 This results in clean Ktor Routing, Forms and Multiplatform Ktor Clients.
 
-## Status
+### Status
 
-## Multiplatform Code Generation Status
+### Multiplatform Code Generation Status
 
 *In this early stage we are focused on Compose WASM and JVM KtorServer
 
