@@ -17,12 +17,16 @@ plugins {
 }
 ```
 
-Next, add the required KSP arguments: 
+Next, add the required KSP arguments. Setting the project name will be used during code generation. 
+
+For example if you have multiple modules "Foo" and "Bar", your AutoRouter class will be named "FooAutoRouter" and "BarAutoRouter" and you can add both to your ktor server.
 
 ```Kotlin
 ksp {
 	ksp {
 		arg("output-dir",  project.layout.buildDirectory.get().asFile.absolutePath + "/generated/ksp")
+		arg("project", project.name)
+
 	}
 	
 }
