@@ -11,4 +11,5 @@
             <toc-element topic="Ktor-Server-Auto-Routing.md"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Gradle-Setup.md"/>
 </instance-profile>
